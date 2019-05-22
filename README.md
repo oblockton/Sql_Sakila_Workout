@@ -1,8 +1,4 @@
-# Homework Assignment
-
-## Installation Instructions
-
-* Refer to the [installation guide](Installation.md) to install the necessary files.
+# SQL workout using the Saklia Database
 
 ## Instructions
 
@@ -68,40 +64,3 @@
 
 * 8c. You find that you no longer need the view `top_five_genres`. Write a query to delete it.
 
-## Appendix: List of Tables in the Sakila DB
-
-* A schema is also available as `sakila_schema.svg`. Open it with a browser to view.
-
-```sql
-'actor'
-'actor_info'
-'address'
-'category'
-'city'
-'country'
-'customer'
-'customer_list'
-'film'
-'film_actor'
-'film_category'
-'film_list'
-'film_text'
-'inventory'
-'language'
-'nicer_but_slower_film_list'
-'payment'
-'rental'
-'sales_by_film_category'
-'sales_by_store'
-'staff'
-'staff_list'
-'store'
-```
-
-## Uploading Homework
-
-* To submit this homework using BootCampSpot:
-
-  * Create a GitHub repository.
-  * Upload your .sql file with the completed queries.
-  * Submit a link to your GitHub repo through BootCampSpot.
